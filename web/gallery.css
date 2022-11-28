@@ -1,0 +1,62 @@
+
+img {
+    width: 100%;
+   
+    
+    
+}
+
+
+#mySidenav a {
+    position: absolute;
+    left: -120px;
+    transition: 0.20s;
+    padding: 15px;
+    width: 100px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border-radius: 0 10px 5px 0;
+  }
+  
+  #mySidenav a:hover {
+    left: 0;
+  }
+  
+  #home {
+    top: 60px;
+    background-color: #04AA6D;
+  }
+  
+  #noah {
+    top: 150px;
+    background-color: #2196F3;
+  }
+  
+  #lilly {
+    top: 220px;
+    background-color: #f44336;
+  }
+  
+  #family {
+    top: 320px;
+    background-color: blueviolet;
+  }
+  #our {
+    top: 420px;
+    background-color: #555
+  }
+
+  #videos {
+    top: 500px;
+    background-color: crimson
+  }
+
+  section {
+    width: 200em;
+    height: 400em;
+    
+    
+
+  }
+  
